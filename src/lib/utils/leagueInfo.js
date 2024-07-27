@@ -26,7 +26,7 @@ export const managers = [
     {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Jordan Brown",
-      "managerID" : "472552723162591232",
+      "managerID": "472552723162591232",
       "tookOver": 2009, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Hemlock", // (optional)
       "bio": "7th All Time",
@@ -49,7 +49,7 @@ export const managers = [
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Adam Root",
-      "managerID" : "680293421075742720",
+      "managerID": "680293421075742720",
       "tookOver": 2009, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Saginaw", // (optional)
       "bio": "4th All Time",
@@ -71,7 +71,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "740319678257401856",
+      "managerID": "740319678257401856",
       "name": "Ben Ebenhoeh",
       "tookOver": 2009, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Hemlock", // (optional)
@@ -95,7 +95,7 @@ export const managers = [
     {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Ben Rombach",
-      "managerID" : "740329551623766016",
+      "managerID": "740329551623766016",
       "tookOver": 2009, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Flint", // (optional)
       "bio": "2nd All TIme",
@@ -117,7 +117,7 @@ export const managers = [
     },
     {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "740335399204962304",
+      "managerID": "740335399204962304",
       "name": "Kevin Millz",
       "managerID" : "740329601078890496"
       "tookOver": 2009, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -141,7 +141,7 @@ export const managers = [
     },
     {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "740335399204962304",
+      "managerID": "740335399204962304",
       "name": "Dennis Emmendorfer",
       "tookOver": 2009, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New Lothrop", // (optional)
@@ -165,7 +165,7 @@ export const managers = [
             {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Dustin Brown",
-     "managerID" : "740335561914654720",
+     "managerID": "740335561914654720",
       "tookOver": 2009, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "New Lothrop", // (optional)
       "bio": "3rd All TIme",
@@ -187,7 +187,7 @@ export const managers = [
     },
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "740336083937681408",
+      "managerID": "740336083937681408",
       "name": "Dante Burch",
       "tookOver": 2009, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "DC", // (optional)
@@ -233,7 +233,7 @@ export const managers = [
     },
     {
       "roster": 10  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "managerID" : "740337924092141568",
+      "managerID": "740337924092141568",
       "name": "Brad Smith",
       "tookOver": 2010, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Tampa", // (optional)
