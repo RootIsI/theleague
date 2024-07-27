@@ -82,7 +82,7 @@
 </style>
 
 <nav>
-	<a href="/"><img id="logo" alt="league logo" src="/badge.png" /></a>
+	<a href="/"><img id="logo" alt="league logo" src="https://rootstudio.pro/wp-content/uploads/2024/07/badge.png" /></a>
 
 	<div class="container">
 		<IconButton
